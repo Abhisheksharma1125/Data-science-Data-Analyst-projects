@@ -1,1 +1,1 @@
-# Data-science-Data-Analyst-projects
+# Data science/Data Analysis-projects
